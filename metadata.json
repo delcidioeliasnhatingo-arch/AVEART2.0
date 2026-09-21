@@ -1,0 +1,6 @@
+{
+  "name": "HyperGear Gamer & Gadgets",
+  "description": "Complete electronics and gaming tech store featuring Daily Deals with live countdowns, BOGO offers, shareable wishlists, advanced filtering, and secure USD checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
